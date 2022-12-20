@@ -1,0 +1,7 @@
+﻿  server.cpp
+D:\qt5\Practice\videocall\multiserver\multiserver\server.cpp(36,7): warning C4101: 'height': unreferenced local variable
+D:\qt5\Practice\videocall\multiserver\multiserver\server.cpp(36,15): warning C4101: 'width': unreferenced local variable
+D:\qt5\Practice\videocall\multiserver\multiserver\server.cpp(36,33): warning C4101: 'IM_WIDTH': unreferenced local variable
+D:\qt5\Practice\videocall\multiserver\multiserver\server.cpp(36,22): warning C4101: 'IM_HEIGHT': unreferenced local variable
+D:\qt5\Practice\videocall\multiserver\multiserver\server.cpp(34,8): warning C4101: 'key': unreferenced local variable
+  multiserver.vcxproj -> D:\qt5\Practice\videocall\multiserver\Debug\multiserver.exe
