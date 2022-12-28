@@ -1,0 +1,6 @@
+Tasks
+1. Implement Bubble Sort, Selection Sort and Merge Sort. A power point file is provided containing
+the algorithm/code for those sorting.
+2. Use the “random numbers.txt” file that contains 10 million random numbers. Apply your
+implemented sorting algorithm along with C++ library sorting to compare the performance by
+measuring the time needed to execute the program.

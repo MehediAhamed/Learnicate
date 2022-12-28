@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Application">
+      <UniqueIdentifier>{f2639377-4d37-4679-85ee-8a00e740bd44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Features">
+      <UniqueIdentifier>{53f845a4-450e-4875-902e-5a07afd8b65f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\File_Explorar">
+      <UniqueIdentifier>{3cc4ba28-0cc7-4d10-977b-82572fda7a84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Signup">
+      <UniqueIdentifier>{174f93e3-d884-4ff0-82ee-595bf053bf5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application">
+      <UniqueIdentifier>{12547d20-6ece-4037-af45-d8313e85f6ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Features">
+      <UniqueIdentifier>{9946c2b6-8385-41ef-8916-2b1c531b2766}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\File_Explorar">
+      <UniqueIdentifier>{5866c129-066a-4add-863d-affcdc66ad39}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Features\Button.h">
+      <Filter>Header Files\Features</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\Container.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\Control.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\Drive.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\File.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\FileExplorer.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\FileSystem.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\FolderView.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\Ribbon.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\RibbonButton.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\RTextBox.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\ScrollBar.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="FileExplorar\TreeNode.h">
+      <Filter>Header Files\File_Explorar</Filter>
+    </ClInclude>
+    <ClInclude Include="sign_up\stuLogin.h">
+      <Filter>Header Files\Signup</Filter>
+    </ClInclude>
+    <ClInclude Include="sign_up\stuSignup.h">
+      <Filter>Header Files\Signup</Filter>
+    </ClInclude>
+    <ClInclude Include="sign_up\Teacher.h">
+      <Filter>Header Files\Signup</Filter>
+    </ClInclude>
+    <ClInclude Include="sign_up\TeachLogin.h">
+      <Filter>Header Files\Signup</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\audio.h">
+      <Filter>Header Files\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\chatbox.h">
+      <Filter>Header Files\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Main_Menu.h">
+      <Filter>Header Files\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\student_menu.h">
+      <Filter>Header Files\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\teacher_menu.h">
+      <Filter>Header Files\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\video_cam.h">
+      <Filter>Header Files\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>Header Files\Signup</Filter>
+    </ClInclude>
+    <ClInclude Include="ssub_menu.h">
+      <Filter>Header Files\Signup</Filter>
+    </ClInclude>
+    <ClInclude Include="tsub_menu.h">
+      <Filter>Header Files\Signup</Filter>
+    </ClInclude>
+    <ClInclude Include="sign_up\TeachSignup.h">
+      <Filter>Header Files\Signup</Filter>
+    </ClInclude>
+    <ClInclude Include="sign_up\Student.h">
+      <Filter>Header Files\Signup</Filter>
+    </ClInclude>
+    <ClInclude Include="Features\Textbox.h">
+      <Filter>Header Files\Features</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Features\Button.cpp">
+      <Filter>Source Files\Features</Filter>
+    </ClCompile>
+    <ClCompile Include="Features\Textbox.cpp">
+      <Filter>Source Files\Features</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\TreeNode.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\ScrollBar.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\RTextBox.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\RibbonButton.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\Ribbon.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\FolderView.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\FileExplorer.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\FileSystem.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\File.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\Drive.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\Control.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExplorar\Container.cpp">
+      <Filter>Source Files\File_Explorar</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\audio.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\chatbox.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\main.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\teacher_menu.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\video_cam.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\student_menu.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Main_Menu.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="stuLogin.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="stuSignup.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Teacher.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="TeachLogin.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="TeachSignup.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="ssub_menu.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="tsub_menu.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="sign_up\Student.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
