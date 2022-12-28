@@ -1,0 +1,141 @@
+E:\Learnicate\Debug\Learnicate.vcxproj.CopyComplete
+E:\Learnicate\Debug\Learnicate.exe
+E:\Learnicate\Debug\opencv_cored.dll
+E:\Learnicate\Debug\zlibd1.dll
+E:\Learnicate\Debug\opencv_highguid.dll
+E:\Learnicate\Debug\opencv_videoiod.dll
+E:\Learnicate\Debug\opencv_imgcodecsd.dll
+E:\Learnicate\Debug\opencv_imgprocd.dll
+E:\Learnicate\Debug\jpeg62.dll
+E:\Learnicate\Debug\webpdecoder.dll
+E:\Learnicate\Debug\webp.dll
+E:\Learnicate\Debug\libpng16d.dll
+E:\Learnicate\Debug\tiffd.dll
+E:\Learnicate\Debug\liblzma.dll
+E:\Learnicate\Debug\sfml-audio-d-2.dll
+E:\Learnicate\Debug\sfml-system-d-2.dll
+E:\Learnicate\Debug\OpenAL32.dll
+E:\Learnicate\Debug\vorbisenc.dll
+E:\Learnicate\Debug\vorbis.dll
+E:\Learnicate\Debug\ogg.dll
+E:\Learnicate\Debug\vorbisfile.dll
+E:\Learnicate\Debug\FLAC.dll
+E:\Learnicate\Debug\sfml-graphics-d-2.dll
+E:\Learnicate\Debug\sfml-window-d-2.dll
+E:\Learnicate\Debug\freetyped.dll
+E:\Learnicate\Debug\bz2d.dll
+E:\Learnicate\Debug\brotlidec.dll
+E:\Learnicate\Debug\brotlicommon.dll
+E:\Learnicate\Debug\sfml-network-d-2.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\Learnicate.vcxproj.CopyComplete
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\Learnicate.exe
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\opencv_cored.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\zlibd1.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\opencv_highguid.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\opencv_videoiod.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\opencv_imgcodecsd.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\opencv_imgprocd.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\jpeg62.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\webpdecoder.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\webp.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\libpng16d.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\tiffd.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\liblzma.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\sfml-audio-d-2.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\sfml-system-d-2.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\OpenAL32.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\vorbisenc.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\vorbis.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\ogg.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\vorbisfile.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\FLAC.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\sfml-graphics-d-2.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\sfml-window-d-2.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\freetyped.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\bz2d.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\brotlidec.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\brotlicommon.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Debug\sfml-network-d-2.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\Learnicate.vcxproj.CopyComplete
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\Learnicate.exe
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\opencv_core2d.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\zlibd1.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\opencv_highgui2d.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\jpeg62.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\libpng16d.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\tiffd.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\liblzma.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\opencv_imgproc2d.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\sfml-audio-d-2.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\sfml-system-d-2.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\OpenAL32.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\vorbisenc.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\vorbis.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\ogg.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\vorbisfile.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\FLAC.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\sfml-graphics-d-2.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\sfml-window-d-2.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\freetyped.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\bz2d.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\brotlidec.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\brotlicommon.dll
+C:\Users\ROG\Desktop\Tin Goyenda\Learnicate\Learnicate\Debug\sfml-network-d-2.dll
+D:\Learnicate\Learnicate\Debug\Learnicate.vcxproj.CopyComplete
+D:\Learnicate\Learnicate\Debug\Learnicate.exe
+D:\Learnicate\Learnicate\Debug\opencv_cored.dll
+D:\Learnicate\Learnicate\Debug\zlibd1.dll
+D:\Learnicate\Learnicate\Debug\opencv_highguid.dll
+D:\Learnicate\Learnicate\Debug\opencv_videoiod.dll
+D:\Learnicate\Learnicate\Debug\opencv_imgcodecsd.dll
+D:\Learnicate\Learnicate\Debug\opencv_imgprocd.dll
+D:\Learnicate\Learnicate\Debug\jpeg62.dll
+D:\Learnicate\Learnicate\Debug\webpdecoder.dll
+D:\Learnicate\Learnicate\Debug\webp.dll
+D:\Learnicate\Learnicate\Debug\libpng16d.dll
+D:\Learnicate\Learnicate\Debug\tiffd.dll
+D:\Learnicate\Learnicate\Debug\liblzma.dll
+D:\Learnicate\Learnicate\Debug\sfml-audio-d-2.dll
+D:\Learnicate\Learnicate\Debug\sfml-system-d-2.dll
+D:\Learnicate\Learnicate\Debug\OpenAL32.dll
+D:\Learnicate\Learnicate\Debug\vorbisenc.dll
+D:\Learnicate\Learnicate\Debug\vorbis.dll
+D:\Learnicate\Learnicate\Debug\ogg.dll
+D:\Learnicate\Learnicate\Debug\vorbisfile.dll
+D:\Learnicate\Learnicate\Debug\FLAC.dll
+D:\Learnicate\Learnicate\Debug\sfml-graphics-d-2.dll
+D:\Learnicate\Learnicate\Debug\sfml-window-d-2.dll
+D:\Learnicate\Learnicate\Debug\freetyped.dll
+D:\Learnicate\Learnicate\Debug\bz2d.dll
+D:\Learnicate\Learnicate\Debug\brotlidec.dll
+D:\Learnicate\Learnicate\Debug\brotlicommon.dll
+D:\Learnicate\Learnicate\Debug\sfml-network-d-2.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\Learnicate.vcxproj.CopyComplete
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\Learnicate.exe
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\opencv_cored.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\zlibd1.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\opencv_highguid.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\opencv_videoiod.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\opencv_imgcodecsd.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\opencv_imgprocd.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\jpeg62.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\webpdecoder.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\webp.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\libpng16d.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\tiffd.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\liblzma.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\sfml-audio-d-2.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\sfml-system-d-2.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\OpenAL32.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\vorbisenc.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\vorbis.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\ogg.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\vorbisfile.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\FLAC.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\sfml-graphics-d-2.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\sfml-window-d-2.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\freetyped.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\bz2d.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\brotlidec.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\brotlicommon.dll
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\sfml-network-d-2.dll

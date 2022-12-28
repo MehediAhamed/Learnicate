@@ -1,0 +1,2 @@
+D:\qt5\Practice\videocall\multiserver\multiserver\Debug\multiserver.vcxproj.CopyComplete
+C:\Users\mehed\OneDrive\Desktop\multiserver\multiserver\Debug\multiserver.vcxproj.CopyComplete

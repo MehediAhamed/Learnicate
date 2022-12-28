@@ -1,0 +1,7 @@
+﻿  server.cpp
+C:\Users\mehed\OneDrive\Desktop\multiserver\multiserver\server.cpp(36,7): warning C4101: 'height': unreferenced local variable
+C:\Users\mehed\OneDrive\Desktop\multiserver\multiserver\server.cpp(36,15): warning C4101: 'width': unreferenced local variable
+C:\Users\mehed\OneDrive\Desktop\multiserver\multiserver\server.cpp(36,33): warning C4101: 'IM_WIDTH': unreferenced local variable
+C:\Users\mehed\OneDrive\Desktop\multiserver\multiserver\server.cpp(36,22): warning C4101: 'IM_HEIGHT': unreferenced local variable
+C:\Users\mehed\OneDrive\Desktop\multiserver\multiserver\server.cpp(34,8): warning C4101: 'key': unreferenced local variable
+  multiserver.vcxproj -> C:\Users\mehed\OneDrive\Desktop\multiserver\Debug\multiserver.exe

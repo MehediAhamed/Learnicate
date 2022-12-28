@@ -1,0 +1,652 @@
+﻿  Main_Menu.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(19,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(19,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(23,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(23,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(26,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(26,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(118,83): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(125,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(132,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(139,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(397,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\Main_Menu.cpp(601,24): warning C4018: '<': signed/unsigned mismatch
+  chatbox.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(20,7): warning C4101: 'buffer': unreferenced local variable
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(115,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(171,14): warning C4101: 'fp1': unreferenced local variable
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(172,7): warning C4101: 'buffer': unreferenced local variable
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(266,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(356,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(392,15): warning C4101: 'fp1': unreferenced local variable
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(393,8): warning C4101: 'buffer': unreferenced local variable
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(484,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(521,15): warning C4101: 'fp1': unreferenced local variable
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(522,8): warning C4101: 'buffer': unreferenced local variable
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(921,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(921,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\chatbox.cpp(1002,24): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\main.cpp(24,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\main.cpp(24,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\main.cpp(27,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\main.cpp(27,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\main.cpp(28,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\main.cpp(28,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  student_menu.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(26,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(33,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(39,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(53,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(60,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(220,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(220,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(364,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(561,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(561,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(647,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(647,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(796,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(849,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(849,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(991,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(1094,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(1094,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(1223,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(1276,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\student_menu.cpp(1276,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  teacher_menu.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(30,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(37,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(43,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(57,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(64,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(228,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(228,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(373,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(570,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(570,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(658,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(658,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(871,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(871,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(1010,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(1141,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(1141,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\teacher_menu.cpp(1213,24): warning C4018: '<': signed/unsigned mismatch
+  video_cam.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\video_cam.cpp(326,7): warning C4553: '==': result of expression not used; did you intend '='?
+  Textbox.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(130,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(154,14): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(155,14): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(157,19): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(158,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(175,29): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(187,33): warning C4018: '>': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(187,67): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(197,34): warning C4018: '>': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(197,68): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(207,34): warning C4018: '>': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(207,69): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(236,29): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(244,34): warning C4018: '>': signed/unsigned mismatch
+  TeachLogin.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachLogin.cpp(115,93): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachLogin.cpp(115,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachLogin.cpp(125,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachLogin.cpp(125,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachLogin.cpp(126,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachLogin.cpp(126,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachLogin.cpp(127,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachLogin.cpp(127,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  TeachSignup.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachSignup.cpp(137,94): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachSignup.cpp(137,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachSignup.cpp(147,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachSignup.cpp(147,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachSignup.cpp(148,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachSignup.cpp(148,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachSignup.cpp(149,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachSignup.cpp(149,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\TeachSignup.cpp(268,26): warning C4018: '<': signed/unsigned mismatch
+  ssub_menu.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(21,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(30,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(39,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(103,100): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(103,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(110,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(110,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(112,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(112,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(113,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(113,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(114,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\ssub_menu.cpp(114,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  stuLogin.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuLogin.cpp(110,93): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuLogin.cpp(110,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuLogin.cpp(120,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuLogin.cpp(120,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuLogin.cpp(121,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuLogin.cpp(121,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuLogin.cpp(122,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuLogin.cpp(122,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  stuSignup.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuSignup.cpp(133,94): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuSignup.cpp(133,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuSignup.cpp(143,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuSignup.cpp(143,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuSignup.cpp(144,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuSignup.cpp(144,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuSignup.cpp(145,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuSignup.cpp(145,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\stuSignup.cpp(263,26): warning C4018: '<': signed/unsigned mismatch
+  tsub_menu.cpp
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(23,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(33,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(45,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(106,98): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(106,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(112,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(112,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(114,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(114,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(115,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(115,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(116,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\tsub_menu.cpp(116,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(366): warning C4715: 'Textbox::read': not all control paths return a value
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(406): warning C4715: 'Textbox::check': not all control paths return a value
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(448): warning C4715: 'Textbox::read': not all control paths return a value
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(506): warning C4715: 'Textbox::student_read': not all control paths return a value
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Features\Textbox.cpp(546): warning C4715: 'Textbox::student_read': not all control paths return a value
+C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Application\main.cpp(105): warning C4715: 'm': not all control paths return a value
+  Learnicate.vcxproj -> C:\Users\mehed\OneDrive\Desktop\Learnicate\Learnicate\Debug\Learnicate.exe
